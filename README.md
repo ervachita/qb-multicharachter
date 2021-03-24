@@ -1,6 +1,6 @@
 # qb-multicharachter
 FiveM QBus-MultiCharachter Script, ESX Converted.
 
-Author: xaneh#6591
+Author: ervachita#1337
 
 For More FiveM Scripts = https://discord.gg/wBNwPCv
